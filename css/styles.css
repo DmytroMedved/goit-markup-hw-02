@@ -1,0 +1,56 @@
+/* logo */
+.logo {
+    color: #000000;
+}
+.logo1 {
+    color: #2196F3;
+}
+/* nav header */
+.studio {
+   color:#2196F3 ; 
+}
+.link {
+  color:#212121 ;  
+}
+.link:hover,
+.link:focus {
+    background-color:#2196F3 ;
+}
+/* section hero */
+.section-hero .h1 {
+color: #FFFFFF;
+}
+/* button */
+.button-hero {
+background-color: #2196F3;
+color: #FFFFFF;
+}
+/* atteniton to detail */
+.attention-to-detail .title {
+    color: #212121;
+}
+.attention-to-detail .text {
+    color: #757575;
+}
+/* what are we doing */
+.what-are-we-doing {
+    color: #212121;
+}
+/* out-team */
+.out-team {
+    color: #212121;
+}
+.team .title {
+    color: #212121;
+}
+.team .text {
+    color: #757575;
+}
+
+/* footer */
+.adress-town {
+    color: #FFFFFF;
+}
+.mail-tel {
+color: #FFFFFF99;
+}
