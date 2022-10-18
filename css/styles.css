@@ -1,13 +1,28 @@
+/* body */
+.body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F5F5F5;
+}
 /* logo */
 .logo {
     color: #000000;
+    font-family: 'Raleway', sans-serif;
 }
 .logo1 {
     color: #2196F3;
+    font-family: 'Raleway', sans-serif;
+}
+/* header */
+.header {
+    background-color: #FFFFFF;
 }
 /* nav header */
 .studio {
    color:#2196F3 ; 
+}
+.studio:hover,
+.studio:focus {
+    background-color: #2196F3;
 }
 .link {
   color:#212121 ;  
@@ -16,14 +31,41 @@
 .link:focus {
     background-color:#2196F3 ;
 }
+.mailto {
+    color: #2196F3;
+}
+.mailto:hover,
+.mailto:focus {
+    background-color: #2196F3;
+}
 /* section hero */
 .section-hero .h1 {
 color: #FFFFFF;
+background-color: #2F303A;
+}
+
+/* section command */
+.section-command {
+    background-color: #F5F4FA;
+}
+/* footer */
+.footer {
+    background-color: #2F303A;
 }
 /* button */
 .button-hero {
-background-color: #2196F3;
-color: #FFFFFF;
+background-color: #FFFFFF;
+color: #2196F3;
+}
+.button-color:hover,
+.button-color:focus {
+    color: #2196F3;
+}
+
+/* button portfolio */
+.button-portfolio {
+    background-color: #2196F3;
+    color: #F5F4FA;
 }
 /* atteniton to detail */
 .attention-to-detail .title {
