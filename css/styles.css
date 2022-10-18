@@ -43,7 +43,9 @@
 color: #FFFFFF;
 background-color: #2F303A;
 }
-
+/* respect to details, punctualness, planning, modern tecnologies */
+/* respect to details, */
+/* what are we doing */
 /* section command */
 .section-command {
     background-color: #F5F4FA;
@@ -61,7 +63,6 @@ color: #2196F3;
 .button-color:focus {
     color: #2196F3;
 }
-
 /* button portfolio */
 .button-portfolio {
     background-color: #2196F3;
@@ -88,7 +89,6 @@ color: #2196F3;
 .team .text {
     color: #757575;
 }
-
 /* footer */
 .adress-town {
     color: #FFFFFF;
