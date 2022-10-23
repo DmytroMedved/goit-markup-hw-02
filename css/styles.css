@@ -1,7 +1,7 @@
 /* body */
 .body {
     font-family: 'Roboto', sans-serif;
-    background-color: #F5F5F5;
+    background-color: #FFFFFF;
     letter-spacing: 0.03em;
 }
 .list {
@@ -32,14 +32,6 @@
         background-color: #FFFFFF;
 }
 /* nav header */
-.studio {
-   color:#2196F3 ; 
-    text-decoration: none;
-}
-.studio:hover,
-.studio:focus {
-    background-color: #2196F3;
-}
 .link {
   color:#212121 ;
   text-decoration: none;
@@ -49,29 +41,56 @@
     background-color:#2196F3 ;
 }
 .mailto {
-    color: #2196F3;
+    color: #757575;
         text-decoration: none;
+        font-weight: 500;
+            font-size: 14px;
+            line-height: calc(16 / 14);
+            letter-spacing: 0.02em;
 }
 .mailto:hover,
 .mailto:focus {
-    background-color: #2196F3;
+    color: #2196F3;
 }
 .tel {
+    color: #757575;
         text-decoration: none;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: calc(16 / 14);
+            letter-spacing: 0.02em;
+}
+.tel:hover,
+.tel:focus {
+    color: #2196F3;
 }
 /* section hero */
+
 .section-hero {
-    color: #FFFFFF;
     background-color: #2F303A;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: calc(60 / 44);
-    text-align: center;
-    letter-spacing: 0.06em;
+}
+.h1-hero {
+        font-weight: 900;
+        font-size: 44px;
+        line-height: calc(60 / 44);
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #FFFFFF;
 }
 .button-hero {
     background-color: #2196F3;
     cursor: pointer;
+}
+.text-button-hero {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: calc(30 / 16);
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.06em;
+        color: #FFFFFF;
 }
 /* respect to details, punctualness, planning, modern tecnologies */
 .title {
